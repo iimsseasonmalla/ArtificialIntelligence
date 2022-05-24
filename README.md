@@ -12,6 +12,7 @@ second semester artificial intelligence course
 -2 dimensions 
 1. human vs. rational
 2. thought vs. behavior
+
 From these dimension we have 4 possible combinations
   1. Acting humanly
   2. Thinking humanly
