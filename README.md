@@ -35,7 +35,7 @@ From these dimension we have 4 possible combinations
   - robotics to manipulate objects and move about.
 - Turing test avoid the physical interaction with human interrogator. Physical simulation of human beings is not necessary for testing the intelligence.
 
-### **Thinking Humanly : Cognative modeling approach **
+### **Thinking Humanly : Cognative modeling approach**
 -If we are going to say that a given program thinks like a human, we must have some way of determining how humans think.
 - learn about human thought in 3 ways 
   1. introspection
@@ -44,7 +44,7 @@ From these dimension we have 4 possible combinations
 - Once we have precise theory of mind, it is possible to express the theory as a computer program.
 - The field of cognitive science brings together computer models from AI and experimental techniques from psychology to try to construct precise and testable theories of the workings of the human mind.
 
-### **Thinking rationlly: The law of thoughts **
+### **Thinking rationlly: The law of thoughts**
 - Aristotal was one of the first who attempt to codify the right thinking that is irrefutable reasoning process.
 - He gave Syllogisms that always yielded correct conclusion when correct premises are given.
 - For example:
