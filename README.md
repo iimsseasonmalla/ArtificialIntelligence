@@ -100,6 +100,6 @@ From these dimension we have 4 possible combinations
     - How can artifacts operate under their own control?
 8. Linguistic
   - Knowledge representation, grammar
-    -How does language relate to thought?
+    - How does language relate to thought?
 
 
