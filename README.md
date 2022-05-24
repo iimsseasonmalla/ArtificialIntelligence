@@ -72,12 +72,34 @@ From these dimension we have 4 possible combinations
       - How does knowledge lead to action?
       - How does mental mind arise from physical brain?
       - Can formal rules be used to draw valid conclusions?
-3. MAthematics
-4. Economics
-5. Neuroscience
-6. Psycilogy
-7. COmputer Engineering 
-8. Control theory 
-9. Linguistic
+2. Mathematics
+    - Formal representation and proof algorithms, computation, undecidability, intractability, probability.
+    - some example 
+      - What are the formal rules to draw the valid conclusions?
+      - What can be computed?
+      - How do we reason with uncertain information?
+3. Economics
+    - Formal theory of rational decisions, game theory, operation research.
+    - some example 
+      - How should we make decisions so as to maximize payoff? 
+      - How should we do this when others may not go along?
+      - How should we do this when the payoff may be far in future?
+4. Neuroscience
+  - Physical substrate for mental activities
+  - some example 
+      - How do brains process information?
+5. Psychology
+  - Adaptation, phenomena of perception and motor control.
+  - some example 
+      - How humans and animals think and act?
+6. Computer Engineering 
+  - How can we build an efficient computer?
+7. Control theory 
+  - Homeostatic systems, stability, optimal agent design
+  - some example 
+    - How can artifacts operate under their own control?
+8. Linguistic
+  - Knowledge representation, grammar
+    -How does language relate to thought?
 
 
