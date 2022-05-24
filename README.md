@@ -102,4 +102,15 @@ From these dimension we have 4 possible combinations
   - Knowledge representation, grammar
     - How does language relate to thought?
 
+### ** Applicaiton of AI **
+- Autonomous planning and scheduling
+- Game playing
+- Autonomous Control
+- Expert Systems
+- Logistics Planning
+- Robotics
+- Language understanding and problem solving
+- Speech Recognition
+- Computer Vision
+
 
