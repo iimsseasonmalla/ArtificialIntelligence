@@ -102,7 +102,7 @@ From these dimension we have 4 possible combinations
   - Knowledge representation, grammar
     - How does language relate to thought?
 
-### ** Applicaiton of AI **
+### **Applicaiton of AI**
 - Autonomous planning and scheduling
 - Game playing
 - Autonomous Control
@@ -112,5 +112,22 @@ From these dimension we have 4 possible combinations
 - Language understanding and problem solving
 - Speech Recognition
 - Computer Vision
+
+### **Risks of AI**
+- Lethal autonomus weapons
+  -   are defined by the United Nations as weapons that can locate, select, and eliminate human targets without human\
+  -   primary concern with such weapons is their scalability: the absence of a requirement for human supervision means that a small group can deploy an arbitrarily large number of weapons against human targets defined by any feasible recognition criterion intervention.
+- Serveillance and persuasion 
+  - can be used in a scalable fashion to perform mass surveillance of individuals and detect activities of interest  
+  - By tailoring information flows to individuals through social media, based on machine learning techniques, political behavior can be modified and controlled to some extent 
+- Biased decision making
+  -  Careless or deliberate misuse of machine learning algorithms for tasks such as evaluating parole and loan applications can result in decisions that are biased by race, gender, or other protected categories. Often, the data themselves reflect pervasive bias in society.  
+- Impact on employment
+- safety-critical applications 
+  - As AI techniques advance, they are increasingly used in high-stakes, safety-critical applications such as driving cars and managing the water supplies of cities  
+  - Fatal accidents have already occurred and highlight the difficulty of formal verification and statistical risk analysis for systems developed using machine learning techniques.
+- Cybersecurity
+  - AI techniques are useful in defending against cyberattack, for example by detecting unusual patterns of behavior, but they will also contribute to the potency, survivability, and proliferation capability of malware
+  
 
 
