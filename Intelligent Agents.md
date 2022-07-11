@@ -64,6 +64,16 @@
 8) Known vs unknown 
 
 ## The strucuture of agent 
+- agent = architecture + program
+- The program we choose has to be one that is appropriate for the architecture. If the program is going to recommend actions like Walk, the architecture had better have legs.
+- The architecture might be just an ordinary PC, or it might be a robotic car with several onboard computers, cameras, and other sensors.
+- the architecture makes the percepts from the sensors available to the program, runs the program, and feeds the program’s action choices to the actuators as they are generated
 
+### Types of agent (agent Programs)
+1) Simple reflex agents
+2) Model-based reflex agent 
+3) GOal-based agents 
+4) Utility-based agents
+5) Learning agents 
 
 
