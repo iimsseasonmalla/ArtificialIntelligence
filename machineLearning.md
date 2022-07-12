@@ -42,6 +42,18 @@
 - Method aims at using observations gathered from the interaction with the environment to take actions that would maximize the reward or minimize the risk
 - Reinforcement learning algorithm (called the agent) continuously learns from the environment in an iterative fashion. In the process, the agent learns from its experiences of the environment until it explores the full range of possible states.
 - It is a type of dynamic programming that trains algorithms using a system of reward and punishment.
-- 
 
+**Linear Regression anmd classification**
+- the class of linear functions of continuous-valued inputs. We’ll start with the simplest case: regression with a univariate linear function, otherwise known as “fitting a straight line.”
+**Univariate linear regression**
+- has the form y=w1x+w0 where w0 and w1 are real-valued coefficients to be learned 
+- we use the letter w beacuse we thiknk of the coefficients as weights;
+   **Gradient descent**
+**Ensemble learning**
+- the idea is to select acollection or ensembnle of hypotheses, h1,h2,......,hn and combine their predictions by averaging, voting or by another level of machine learning
+- we call individual hypotheses base model and their combinaiton an ensemble model 
+- ensemble can be more expensive and thgus have less bais, than the base model
 
+**Naive bayes models**
+- most common model used in machine learning
+- the “class” variable C (which is to be predicted) is the root and the “attribute” variables X i are the leaves.
