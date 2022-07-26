@@ -6,3 +6,20 @@
 # Neural Network
 - is a series of alogorithms that endeavors to reconginvze underlying relationships in a set of data thorugh a process that minimcs the way the human brain operates 
 - Neural networks are parallel computing devices, which is basically an attempt to make a computer model of the brain.
+
+# Artificial neural network 
+- are computing systems inspired by the biological neural network that constitue the animal brain  
+- main objective is to develop a system to perform various computational task faster than the traditional systesm 
+- parallel distributed processing systems
+
+# Artificial neural network architecture 
+ 1) input layer
+ 2) Hidden layer
+ 3) output layer 
+
+Activation functions 
+1) Sigmoid funciton
+2) ReLu fucntion
+3) tanh function 
+
+Types of ANN
